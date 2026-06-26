@@ -7,6 +7,7 @@ All Leetcode solved questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Cyberoxic/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Cyberoxic/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Cyberoxic/Leetcode/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/Cyberoxic/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -22,9 +23,11 @@ All Leetcode solved questions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Cyberoxic/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Cyberoxic/Leetcode/tree/master/0027-remove-element) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Cyberoxic/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Cyberoxic/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

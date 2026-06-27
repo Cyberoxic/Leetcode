@@ -10,11 +10,13 @@ All Leetcode solved questions
 | [0015-3sum](https://github.com/Cyberoxic/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Cyberoxic/Leetcode/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/Cyberoxic/Leetcode/tree/master/0217-contains-duplicate) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Cyberoxic/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Cyberoxic/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Cyberoxic/Leetcode/tree/master/0217-contains-duplicate) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Cyberoxic/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Math
 |  |
 | ------- |
@@ -30,4 +32,8 @@ All Leetcode solved questions
 | ------- |
 | [0015-3sum](https://github.com/Cyberoxic/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Cyberoxic/Leetcode/tree/master/0217-contains-duplicate) |
+## Counting
+|  |
+| ------- |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Cyberoxic/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 <!---LeetCode Topics End-->

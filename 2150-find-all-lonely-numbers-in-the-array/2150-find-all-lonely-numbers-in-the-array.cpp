@@ -5,7 +5,10 @@ public:
         unordered_map<int,int> mpp;
         vector<int> ans;
         int n = nums.size();
-
+        if(n<=1) 
+        {
+            return nums;
+        }
         for (int i = 0; i < n; i++) 
         {
             int num = nums[i];

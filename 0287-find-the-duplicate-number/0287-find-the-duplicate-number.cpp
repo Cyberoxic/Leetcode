@@ -1,17 +1,17 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        int begin = nums[0], end = nums[0];
+        int start = nums[0], end = nums[0];
         do{
-            begin=nums[begin];
+            start=nums[start];
             end=nums[nums[end]];
-        } while(begin!=end);
-        begin=nums[0];
-        while(begin!=end)
+        } while(start!=end);
+        start=nums[0];
+        while(start!=end)
         {
-            begin=nums[begin];
+            start=nums[start];
             end=nums[end];
-        }
-        return begin;     
+        } 
+        return start;     
     }
 };

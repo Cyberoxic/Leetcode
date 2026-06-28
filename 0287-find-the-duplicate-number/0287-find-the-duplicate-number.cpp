@@ -12,7 +12,6 @@ public:
             begin=nums[begin];
             end=nums[end];
         }
-        return begin;
-        
+        return begin;     
     }
 };

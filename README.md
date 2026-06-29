@@ -9,6 +9,7 @@ All Leetcode solved questions
 | [0001-two-sum](https://github.com/Cyberoxic/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Cyberoxic/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Cyberoxic/Leetcode/tree/master/0027-remove-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Cyberoxic/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Cyberoxic/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Cyberoxic/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Cyberoxic/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -34,6 +35,7 @@ All Leetcode solved questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Cyberoxic/Leetcode/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Cyberoxic/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Cyberoxic/Leetcode/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
@@ -51,4 +53,16 @@ All Leetcode solved questions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Cyberoxic/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Cyberoxic/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Cyberoxic/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Cyberoxic/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

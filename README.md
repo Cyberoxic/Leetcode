@@ -45,6 +45,7 @@ All Leetcode solved questions
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Cyberoxic/Leetcode/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/Cyberoxic/Leetcode/tree/master/0520-detect-capital) |
 ## Binary Search
 |  |
 | ------- |

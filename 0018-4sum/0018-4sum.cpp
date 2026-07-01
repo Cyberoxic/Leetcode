@@ -15,25 +15,25 @@ public:
                 if (j > i + 1 && nums[j] == nums[j - 1]) continue;
                 if ((long long)nums[i] + nums[j] + nums[j + 1] + nums[j + 2] > target) break;
                 if ((long long)nums[i] + nums[j] + nums[size - 2] + nums[size - 1] < target) continue;
-                int left = j + 1;
-                int right = size - 1;
-                while (left < right) 
+                int l = j + 1;
+                int r = size - 1;
+                while (l < r) 
                 {
-                    long long current_sum = (long long)nums[i] + nums[j] + nums[left] + nums[right];
+                    long long current_sum = (long long)nums[i] + nums[j] + nums[l] + nums[r];
                     if (current_sum == target) {
-                        ans.push_back({nums[i], nums[j], nums[left], nums[right]}); 
-                        while (left < right && nums[left] == nums[left + 1]) left++;
-                        while (left < right && nums[right] == nums[right - 1]) right--; 
-                        left++;
-                        right--;
+                        ans.push_back({nums[i], nums[j], nums[l], nums[r]}); 
+                        while (l < r && nums[l] == nums[l + 1]) l++;
+                        while (l < r && nums[r] == nums[r - 1]) r--; 
+                        l++;
+                        r--;
                     } 
                     else if (current_sum < target) 
                     {
-                        left++;
+                        l++;
                     } 
                     else 
                     {
-                        right--;
+                        r--;
                     }
                 }
             }

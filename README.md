@@ -26,6 +26,7 @@ All Leetcode solved questions
 | ------- |
 | [0007-reverse-integer](https://github.com/Cyberoxic/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Cyberoxic/Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Cyberoxic/Leetcode/tree/master/0050-powx-n) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,4 +76,8 @@ All Leetcode solved questions
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cyberoxic/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Cyberoxic/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

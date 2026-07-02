@@ -11,6 +11,7 @@ All Leetcode solved questions
 | [0018-4sum](https://github.com/Cyberoxic/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Cyberoxic/Leetcode/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cyberoxic/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Cyberoxic/Leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Cyberoxic/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Cyberoxic/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Cyberoxic/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -60,6 +61,7 @@ All Leetcode solved questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Cyberoxic/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Cyberoxic/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |

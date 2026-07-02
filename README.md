@@ -13,6 +13,7 @@ All Leetcode solved questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cyberoxic/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Cyberoxic/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Cyberoxic/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Cyberoxic/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Cyberoxic/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Cyberoxic/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Hash Table
@@ -80,4 +81,8 @@ All Leetcode solved questions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Cyberoxic/Leetcode/tree/master/0050-powx-n) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Cyberoxic/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

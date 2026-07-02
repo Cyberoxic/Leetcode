@@ -12,6 +12,7 @@ All Leetcode solved questions
 | [0027-remove-element](https://github.com/Cyberoxic/Leetcode/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cyberoxic/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Cyberoxic/Leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Cyberoxic/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Cyberoxic/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Cyberoxic/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Cyberoxic/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -35,6 +36,7 @@ All Leetcode solved questions
 | [0015-3sum](https://github.com/Cyberoxic/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Cyberoxic/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Cyberoxic/Leetcode/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Cyberoxic/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Cyberoxic/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Cyberoxic/Leetcode/tree/master/0344-reverse-string) |
 ## Sorting
@@ -57,6 +59,7 @@ All Leetcode solved questions
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Cyberoxic/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Cyberoxic/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |

@@ -5,13 +5,13 @@ public:
         int n=nums.size();
         for(int i=0;i<n;i++)
         {
-           int a=nums[i]; // 'a' is the current number we are looking at
+           int a=nums[i];
            int n=target-a; 
-           if(mpp.find(n)!=mpp.end()) //finding the n in hashmap
+           if(mpp.find(n)!=mpp.end())
            {
-                return {mpp[n],i}; //
+                return {mpp[n],i};
            }
-           else mpp[a]=i; //stores the index as the value
+           else mpp[a]=i;
         }
         return{-1,-1};
     }

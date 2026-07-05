@@ -20,6 +20,7 @@ All Leetcode solved questions
 | [0238-product-of-array-except-self](https://github.com/Cyberoxic/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Cyberoxic/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Cyberoxic/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Cyberoxic/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Cyberoxic/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ All Leetcode solved questions
 | [0344-reverse-string](https://github.com/Cyberoxic/Leetcode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Cyberoxic/Leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Cyberoxic/Leetcode/tree/master/0709-to-lower-case) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Cyberoxic/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Binary Search
 |  |
 | ------- |

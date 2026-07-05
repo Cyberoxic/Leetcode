@@ -1,15 +1,15 @@
 class Solution {
 public:
     int mostWordsFound(vector<string>& sentences) {
-        int maxWords = 0;
+        int ans = 0;
         for (string& s : sentences) {
-            int words = 1;
+            int word = 1;
             for (char ch : s) {
                 if (ch == ' ')
-                    words++;
+                    word++;
             }
-            maxWords = max(maxWords, words);
+            ans = max(ans, word);
         }
-        return maxWords;
+        return ans;
     }
 };

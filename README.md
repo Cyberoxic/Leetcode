@@ -7,6 +7,7 @@ All Leetcode solved questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Cyberoxic/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Cyberoxic/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Cyberoxic/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Cyberoxic/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Cyberoxic/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -37,6 +38,7 @@ All Leetcode solved questions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Cyberoxic/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Cyberoxic/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Cyberoxic/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Cyberoxic/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -100,4 +102,8 @@ All Leetcode solved questions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Cyberoxic/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Cyberoxic/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

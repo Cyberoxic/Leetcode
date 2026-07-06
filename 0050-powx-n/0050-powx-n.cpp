@@ -8,8 +8,10 @@ public:
         }
         double ans=1.0;
         double prod=x;
-        while (num>0) {
-            if (num%2==1) {
+        while (num>0) 
+        {
+            if (num%2==1) 
+            {
                 ans=ans*prod;
             }
             prod=prod*prod;

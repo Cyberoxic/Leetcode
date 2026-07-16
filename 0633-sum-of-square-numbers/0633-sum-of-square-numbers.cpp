@@ -11,7 +11,7 @@ public:
                 return true;
             else if(sum>c)
                 b--;
-            else if(sum<c)
+            else
                 a++;
         }
         return false;

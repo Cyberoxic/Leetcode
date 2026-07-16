@@ -36,6 +36,7 @@ All Leetcode solved questions
 | [0007-reverse-integer](https://github.com/Cyberoxic/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Cyberoxic/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Cyberoxic/Leetcode/tree/master/0050-powx-n) |
+| [0633-sum-of-square-numbers](https://github.com/Cyberoxic/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ All Leetcode solved questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Cyberoxic/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Cyberoxic/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Cyberoxic/Leetcode/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Cyberoxic/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Cyberoxic/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -74,6 +76,7 @@ All Leetcode solved questions
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Cyberoxic/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Cyberoxic/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/Cyberoxic/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |

@@ -5,7 +5,7 @@ public:
         int n=sqrt(c);
         long a=0,b=n;
         if(c==1||c==0) return true;
-        while(a<=n && b<=n)
+        while(a<=b)
         {
             long sum= (a*a)+(b*b);
             if(sum==c)

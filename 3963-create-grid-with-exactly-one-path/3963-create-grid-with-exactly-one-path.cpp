@@ -4,13 +4,18 @@ public:
     {
         string Row(cols, '#');
         vector<string> grid(rows, Row);
-        for (int i = 0; i < rows; i++) 
+        int limit = max(rows, cols);
+
+        for (int i = 0; i < limit; i++) 
         {
-            grid[i][0] = '.';
-        }
-        for (int j = 1; j < cols; j++) 
-        {
-            grid[rows-1][j] = '.';
+            if (i < rows) 
+            {
+                grid[i][0] = '.';
+            }
+            if (i < cols) 
+            {
+                grid[rows - 1][i] = '.';
+            }
         }
         return grid;
     }

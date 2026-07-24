@@ -2,8 +2,8 @@ class Solution {
 public:
     vector<string> createGrid(int rows, int cols) 
     {
-        string blockedRow(cols, '#');
-        vector<string> grid(rows, blockedRow);
+        string Row(cols, '#');
+        vector<string> grid(rows, Row);
         for (int i = 0; i < rows; i++) 
         {
             grid[i][0] = '.';

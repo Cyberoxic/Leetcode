@@ -12,7 +12,6 @@ public:
         {
             grid[rows-1][j] = '.';
         }
-
         return grid;
     }
 };

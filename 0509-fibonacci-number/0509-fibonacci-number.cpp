@@ -12,8 +12,7 @@ public:
             }
             return b;
         }
-        else
-            return n;
+        else return n;
         //recursion technique but it took 9ms to submit
         //if(n<=1) return n;
         //else

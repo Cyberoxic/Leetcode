@@ -36,6 +36,7 @@ All Leetcode solved questions
 | [0007-reverse-integer](https://github.com/Cyberoxic/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Cyberoxic/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Cyberoxic/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Cyberoxic/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Cyberoxic/Leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Cyberoxic/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
@@ -82,6 +83,7 @@ All Leetcode solved questions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Cyberoxic/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Cyberoxic/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Cyberoxic/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
@@ -104,6 +106,7 @@ All Leetcode solved questions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Cyberoxic/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Cyberoxic/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Cyberoxic/Leetcode/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |

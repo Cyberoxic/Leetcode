@@ -126,4 +126,12 @@ All Leetcode solved questions
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Cyberoxic/Leetcode/tree/master/0509-fibonacci-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Cyberoxic/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Cyberoxic/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

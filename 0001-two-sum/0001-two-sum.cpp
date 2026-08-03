@@ -14,9 +14,7 @@ public:
             int sum=arr[l].first+arr[r].first;
             if(sum==target)
             {
-                result.push_back(arr[l].second);
-                result.push_back(arr[r].second);
-                return result;
+                return{arr[l].second,arr[r].second};
             }
             else if(sum<target)
                 l++;

@@ -39,6 +39,7 @@ All Leetcode solved questions
 | [0009-palindrome-number](https://github.com/Cyberoxic/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Cyberoxic/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Cyberoxic/Leetcode/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/Cyberoxic/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Cyberoxic/Leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Cyberoxic/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
@@ -76,6 +77,7 @@ All Leetcode solved questions
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Cyberoxic/Leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Cyberoxic/Leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Cyberoxic/Leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Cyberoxic/Leetcode/tree/master/0709-to-lower-case) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Cyberoxic/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -134,4 +136,8 @@ All Leetcode solved questions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Cyberoxic/Leetcode/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Cyberoxic/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->

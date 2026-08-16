@@ -25,6 +25,7 @@ All Leetcode solved questions
 | [0977-squares-of-a-sorted-array](https://github.com/Cyberoxic/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Cyberoxic/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Cyberoxic/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Cyberoxic/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Cyberoxic/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Cyberoxic/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Hash Table
@@ -70,6 +71,7 @@ All Leetcode solved questions
 | [0215-kth-largest-element-in-an-array](https://github.com/Cyberoxic/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Cyberoxic/Leetcode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Cyberoxic/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Cyberoxic/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -133,6 +135,7 @@ All Leetcode solved questions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Cyberoxic/Leetcode/tree/master/0075-sort-colors) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Cyberoxic/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bubble Sort
 |  |
 | ------- |

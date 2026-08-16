@@ -1,14 +1,27 @@
 class Solution {
 public:
     int maxProductDifference(vector<int>& nums) {
-        int size=nums.size();
-        if(size>=4)
+        int num1 = 0, num2 = 0, num3 = *max_element(nums.begin(),nums.end()), num4 = num3;
+        for (int num : nums) 
         {
-            sort(nums.begin(),nums.end());
-            int s=(nums[size-1]*nums[size-2])-(nums[0]*nums[1]);
-            return s;
+            if (num > num1) 
+            {
+                num2 = num1;
+                num1 = num;
+            } else if (num > num2) 
+            {
+                num2 = num;
+            }
+            if (num < num3) 
+            {
+                num4 = num3;  
+                num3 = num; 
+            } 
+            else if (num < num4) 
+            {
+                 num4 = num;
+            }
         }
-        else 
-            return -1;
+        return (num1 * num2) - (num3 * num4);
     }
 };

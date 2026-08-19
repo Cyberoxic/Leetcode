@@ -1,29 +1,19 @@
-
 class Solution {
 public:
     vector<string> fizzBuzz(int n) {
-        std::vector<std::string> ret{ "1" };
-        ret.reserve(n++);
-        for (size_t i = 2; i != n; ++i) {
-            bool by3{ !(i % 3) }, by5{ !(i % 5) };
-            if (by3 && by5) {
-                ret.emplace_back("FizzBuzz");
-            }
-            else if (by3) {
-                ret.emplace_back("Fizz");
-            }
-            else if (by5) {
-                ret.emplace_back("Buzz");
-            }
-            else {
-                std::string& str = ret.emplace_back();
-                size_t j = i;
-                do {
-                    str.push_back('0' + j % 10);
-                } while (j /= 10);
-                std::reverse(str.begin(), str.end());
-            }
+        vector<string> str;
+        for(int i=1;i<=n;i++)
+        {
+
+            if(i%3==0 && i%5==0)
+                str.push_back("FizzBuzz");
+            else if(i%3==0)
+                str.push_back("Fizz");
+            else if(i%5==0)
+                str.push_back("Buzz");
+            else
+                str.push_back(to_string(i));
         }
-        return ret;
+        return str;
     }
 };

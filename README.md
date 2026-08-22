@@ -44,6 +44,7 @@ All Leetcode solved questions
 | [0412-fizz-buzz](https://github.com/Cyberoxic/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Cyberoxic/Leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Cyberoxic/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Cyberoxic/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |

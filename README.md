@@ -32,6 +32,7 @@ All Leetcode solved questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Cyberoxic/Leetcode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Cyberoxic/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Cyberoxic/Leetcode/tree/master/0217-contains-duplicate) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Cyberoxic/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Math
@@ -40,6 +41,7 @@ All Leetcode solved questions
 | [0007-reverse-integer](https://github.com/Cyberoxic/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Cyberoxic/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Cyberoxic/Leetcode/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/Cyberoxic/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Cyberoxic/Leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Cyberoxic/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Cyberoxic/Leetcode/tree/master/0509-fibonacci-number) |
@@ -57,6 +59,7 @@ All Leetcode solved questions
 | [0075-sort-colors](https://github.com/Cyberoxic/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Cyberoxic/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Cyberoxic/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Cyberoxic/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Cyberoxic/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Cyberoxic/Leetcode/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Cyberoxic/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -147,4 +150,8 @@ All Leetcode solved questions
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Cyberoxic/Leetcode/tree/master/0412-fizz-buzz) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Cyberoxic/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
